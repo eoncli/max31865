@@ -1,7 +1,7 @@
 {
-    "name": "max31865",
-    "author": "EonTeam",
-    "type": "library",
-    "dependencies": [],
-    "targetPlatforms": ["eoncli/stm32l0", "eoncli/stm32g0"]
+  "name": "max31865",
+  "author": "EonTeam",
+  "type": "library",
+  "dependencies": [],
+  "platforms": ["eoncli/stm32l0", "eoncli/stm32g0"]
 }
